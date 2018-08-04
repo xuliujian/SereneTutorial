@@ -1,0 +1,9 @@
+﻿{
+  "RootNamespace": "SereneTutorial",
+  "ServerTypings": {
+    "Assemblies": []
+  },
+  "Connections": [],
+  "BaseRowClasses": [],
+  "RemoveForeignFields": []
+}
